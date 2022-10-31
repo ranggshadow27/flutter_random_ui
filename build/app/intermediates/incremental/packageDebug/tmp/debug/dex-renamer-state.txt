@@ -1,0 +1,4 @@
+#Sat Oct 22 01:35:57 ICT 2022
+base.0=D\:\\Code\\BWA Learn\\Flutter 7 Days Modern UI\\flutter_firstday_ui\\bwa_firstday_ui\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
